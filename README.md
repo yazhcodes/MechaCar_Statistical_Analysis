@@ -24,7 +24,7 @@ The Overall Variance of the Suspension Coils is 62.29 PSI which is well within t
 <p>Let's determine if PSI of all lots and each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch</p>
 <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_total.png' width=400 height=200></img>
 <p>
-<img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot1.png' width=300 height=150> 
-<img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot2.png' width=300 height=150> 
-<img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot3.png' width=300 height=150>
+<img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot1.png' width=300 height=150></img>
+<img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot2.png' width=300 height=150></img> 
+<img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot3.png' width=300 height=150></img>
 </p>
