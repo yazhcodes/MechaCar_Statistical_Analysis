@@ -28,8 +28,8 @@ The Overall Variance of the Suspension Coils is 62.29 PSI which is well within t
 <h3>Lot-wise PSI vs Population Mean</h3>
 <p>Upon running t-tests for Lots 1,2 and 3, their p-factors were found to be 1, 0.6 and 0.04. Lot 1 and 2 fail to reject the null hypothese, so their mean PSIs are not statistically different from the population mean. However Lot 3's p-factor is the below 0.05 cut-off so we reject the null hypotheses and infer that Lot 3's mean PSI is statistically different from the population mean of 1500.
   <span align='center'>
-  <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot1.png' width=350 height=180></img>
-  <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot2.png' width=350 height=180></img> 
-  <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot3.png' width=350 height=180></img>
+  <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot1.png' width=340 height=180></img>
+  <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot2.png' width=340 height=180></img> 
+  <img src='https://github.com/yazhcodes/MechaCar_Statistical_Analysis/blob/main/Images/Del3_ttest_lot3.png' width=340 height=180></img>
   </span>
 </p>
