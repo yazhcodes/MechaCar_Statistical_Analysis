@@ -48,19 +48,22 @@ The Overall Variance of the Suspension Coils is 62.29 PSI which is well within t
       <li>Safety Rating</li>
     </ul>
   </li>
-  <li><strong>Null Hypotheses:</strong> The predictor variables are not statistically significant in determining the sales of a MechaCar.</li>
-  <li><strong>Alternate Hypotheses:</strong> The predictor variables are statistically significant in determining the sales of a MechaCar.</li>
+  <li><strong>Hypotheses:</strong>
+    <ul>
+      <li><strong><i>Null Hypotheses:</i></strong> The predictor variables are not statistically significant in determining the sales of a MechaCar.</li>
+      <li><strong><i>Alternate Hypotheses:</i></strong> The predictor variables are statistically significant in determining the sales of a MechaCar.</li>
+    </ul>
   <li>Statistical Tests to Run:
     <ul>
-      <li><strong>Correlation Coefficient Matrix</strong> - Identify the metrics that are correlated to the sales numbers of competitor cars.</li>
-      <li><strong>Multiple Linear Model</strong> - Build a Multiple Linear Model to identify the predictor variables that can be tweaked to predicit an increase in sales of a car.</li>
-      <li><strong>Two Sample Tests</strong> - Compare the predictor variables of a MechaCar with those of the competitor's cars.</li>
+      <li><strong><i>Correlation Coefficient Matrix</i></strong> - Identify the metrics that are correlated to the sales numbers of competitor cars.</li>
+      <li><strong><i>>Multiple Linear Model</i></strong> - Build a Multiple Linear Model to identify the predictor variables that can be tweaked to predicit an increase in sales of a car.</li>
+      <li><strong><i>Two Sample Tests</i></strong> - Compare the predictor variables of a MechaCar with those of the competitor's cars.</li>
     </ul>
   </li>
   <li><strong>Data Required:</strong>
     <ul>
-      <li><strong>Competitor Data</strong> - The competitor dataset should have all the variables of interest and the corresponding sales numbers of competitor cars.</li>
-      <li><strong>MechaCar Data</strong> - The MechaCar dataset should have all the predictor variables (identified from the first two tests) of the MechaCar.</li>
+      <li><strong><i>Competitor Data</i></strong> - The competitor dataset should have all the variables of interest and the corresponding sales numbers of competitor cars.</li>
+      <li><strong><i>MechaCar Data</i></strong> - The MechaCar dataset should have all the predictor variables (identified from the first two tests) of the MechaCar.</li>
     </ul>
   </li>
 </ul>
